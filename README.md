@@ -8,7 +8,7 @@ MATLAB deals with it: 𝑋^3 𝑋^2 X 𝑋^0
 we deal with it: 𝑋^0 X 𝑋^2 𝑋^3 
 
 So, we generate our own code to encode and decode cyclic code.This is a Matlab code that takes an input message and a generator polynomial drom the users as zeros & ones and then:
-1- represents them as polynomials
-2- encode the message
-3- generate a single random error in the encoded message every time we run
-4- detect the error and decode the message
+## 1- represents them as polynomials
+## 2- encode the message
+## 3- generate a single random error in the encoded message every time we run
+## 4- detect the error and decode the message
